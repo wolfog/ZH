@@ -36,6 +36,7 @@ def call_create_dict(isCalling):
     else:
         phone_time_dict[item[isCalling]] = int(item[-1])
 
+
 #  new a dictionary with phone number ,duration time() as key and value
 phone_time_dict = {}
 max_time = 0

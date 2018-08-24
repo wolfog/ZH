@@ -64,4 +64,6 @@ if phone_called_list.count("080") != 0 and number_080_call != 0:
     print("%.2f percent of calls from fixed lines in Bangalore are calls to other fixed lines in Bangalore." %
           (phone_called_list.count("080") / number_080_call))
 		  
+放假按法律
+		  
 
